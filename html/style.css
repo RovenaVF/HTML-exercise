@@ -1,0 +1,108 @@
+.logo{
+	position: relative;
+	width: 150px;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 80px;
+	right: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 40px;
+}
+
+nav a{
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+nav a:hover{
+	color: #8B0000;
+	text-decoration: underline;
+}
+
+* {
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+p {
+	font-family: Montserrat;
+	font-size: 17px;
+}
+
+table td {
+	padding: 8px 32px;
+}
+
+div.container{
+	font-family: Montserrat;
+	font-size: 17px;
+	display: flex;
+	justify-content: center;
+}
+
+.tituloprincipal{
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+}
+.secundario{
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: center;
+}
+
+.titulolanca{
+	font-family: Montserrat;
+	font-size: 22px;
+}
+
+.camisafoto{
+	width: 450px;
+	margin: 0 auto;
+}
+
+.imagemOFC{
+	width: 500px;
+	margin: 0 auto;
+}
+
+
+div.camisaOFC{
+	height: 50vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+div.camisa{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+
+
+
+/*.principal{
+	background: linear-gradient(#FEFEFE, #888888);
+}
+
+.ficha{
+	background: #888888;
+}*/
+
+
+
+
