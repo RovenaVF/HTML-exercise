@@ -91,10 +91,6 @@ div.camisa{
 	align-items: center;
 }
 
-
-
-
-
 /*.principal{
 	background: linear-gradient(#FEFEFE, #888888);
 }
@@ -102,6 +98,96 @@ div.camisa{
 .ficha{
 	background: #888888;
 }*/
+
+.titulojog{
+	text-align: center;
+}
+
+
+.atacantes {
+  display: flex;
+  justify-content: space-between;
+}
+
+.player {
+  text-align: center;
+}
+
+.player img {
+  /*width: 200%; /* Adjust the width as needed */
+  /*max-width: 250px; /* Set a maximum width to maintain aspect ratio */
+  height: auto; /* Maintain aspect ratio */
+  margin-bottom: 10px; /* Add margin bottom to create space between image and text */
+}
+
+.float-text {
+  text-align: center;
+
+}
+
+.roger{
+	width: 300px;
+	margin-left: 150px;
+}
+
+.chrys{
+	width: 200px;
+	margin-right: 150px;
+}
+
+.yuri{
+	width: 300px;
+}
+
+
+.zaga {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bruno{
+	width: 300px;
+	margin-left: 250px;
+}
+
+.fragner{
+	margin-right: 250px;
+	width: 220px;
+}
+
+.meio {
+  display: flex;
+  justify-content: space-between;
+}
+
+.renato{
+	width: 230px;
+	margin-left: 130px;
+}
+
+.fausto{
+	margin-right: 130px;
+	width: 300px;
+}
+
+.paulo{
+	width: 350px;
+}
+
+.goleiro {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cassio{
+	width: 230px;
+	margin-left: 250px;
+}
+
+.carlos{
+	margin-right: 250px;
+	width: 250px;
+}
 
 
 
